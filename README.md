@@ -1,4 +1,6 @@
-AI Threat Model Framework v1
+[![Python Tests](https://github.com/Freedomamiss/AI_Threat_Model_Framework/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Freedomamiss/AI_Threat_Model_Framework/actions/workflows/python-tests.yml)
+
+# AI Threat Model Framework v1
 
 A beginner-friendly command-line Python tool for generating basic threat models for AI, LLM, RAG, and AI-agent systems.
 
